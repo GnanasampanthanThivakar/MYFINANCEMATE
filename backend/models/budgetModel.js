@@ -25,7 +25,7 @@ const budgetSchema = new mongoose.Schema({
   amount: {
     type: Number,
     required: [true, "Amount is required"],
-    min: [0.01, "Amount must be positive"],
+    min: [1, "Amount must be positive"],
   },
 });
 
