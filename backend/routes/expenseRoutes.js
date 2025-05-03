@@ -6,6 +6,7 @@ const expenseController = require("../controllers/expenseController");
 // Create new expense
 router.post("/", authMiddleware, expenseController.createExpense);
 
+
 // Get expenses with optional filters
 router.get("/", authMiddleware, expenseController.getExpenses);
 
