@@ -54,7 +54,7 @@ Contributing
 Want to make FinanceMate even better? Here's how you can help:
 
 Fork the Repository: Click the "Fork" button on GitHub.
-Clone Your Fork:git clone https://github.com/your-username/financemate.git
+Clone Your Fork:git clone https://github.com/GnanasampanthanThivakar/MYFINANCEMATE
 
 
 Create a Branch:git checkout -b my-new-feature
@@ -79,8 +79,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Have questions or ideas? Reach out!
 
-GitHub: your-username
-Email: your-email@example.com (optional)
+GitHub:GnanasampanthanThivakar
+Email: g.thivakar123@gmail.com
 
 Acknowledgments
 
